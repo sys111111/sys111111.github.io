@@ -34,7 +34,7 @@ Hi! I am an incoming Ph.D. student in the Department of Computer Science and Eng
 
 In Fall 2025, I was an exchange student in CSE at HKUST, where I also served as a visiting student in the [HKUST Aerial Robotics Group](https://uav.hkust.edu.hk/). During my undergraduate studies at SJTU, I worked as a research intern at the Global Institute of Future Technology, under the supervision of [Prof. Tong Qin](https://qintong.xyz/). Prior to this, I worked as a research intern at the College of Computer Science and Technology, Zhejiang University, supervised by [Prof. Lingyun Sun](https://person.zju.edu.cn/sly#) and [Prof. Liuqing Chen](https://person.zju.edu.cn/chenlq), and at the School of Oceanography, SJTU, supervised by [Prof. Zheng Zeng](https://soo.sjtu.edu.cn/teacher-list/zengzheng.html).
 
-My research focuses on deploying intelligent systems in the physical world, with a particular emphasis on developing scalable data acquisition paradigms to facilitate generalizable dexterous manipulation in unstructured environments.
+My research focuses on deploying intelligent robotic systems in the physical world, with developing scalable data acquisition paradigms to facilitate generalizable dexterous manipulation in unstructured environments.
 :::
 
 ## Publications {#publications}
