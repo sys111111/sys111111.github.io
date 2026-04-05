@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Yishu Shen"
+  navbar:
+    background: white
+    search: false
+    left:
+      - href: index.qmd#hero-heading  # 建议这里改成 #hero-heading，定位更准
+        text: Personal Profile
+      - href: index.qmd#publications
+        text: Publications
+      - href: index.qmd#award
+        text: Award
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    smooth-scroll: true  # 开启平滑滚动效果
+    toc: false           # 隐藏右侧目录，保持页面简洁

@@ -1,0 +1,8 @@
+/* 让个人照片的圆角更大 */
+.about-entity img {
+    border-radius: 30px !important; /* 你可以根据喜好调整这个像素值，50% 即为圆形 */
+  }
+
+.navbar {
+border-bottom: 1.2px solid #838383 !important; 
+}
